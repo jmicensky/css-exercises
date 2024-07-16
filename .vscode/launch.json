@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/Users/johnmicensky/repos/css-exercises/foundations/02-class-id-selectors/index.html"
+            "file": "/Users/johnmicensky/repos/css-exercises/foundations/03-grouping-selectors/index.html"
         }
     ]
 }
