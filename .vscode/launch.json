@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/Users/johnmicensky/repos/css-exercises/foundations/03-grouping-selectors/index.html"
+            "file": "/Users/johnmicensky/repos/css-exercises/margin-and-padding/02-margin-and-padding-2/index.html"
         }
     ]
 }
